@@ -1,5 +1,6 @@
-## Версия v1.0.5 - 2024-09-16
-a9d6946 feat: commit 3
-23a35ad feat: commit 2
-b61feea feat: commit 1
-868d571 Initial commit
+## Версия v1.0.6 - 2024-09-16
+3acc91d fix: commit 5
+53e42a2 fix: commit 4
+dc845a7 fix: commit 3
+cf12ae0 fix: commit 2
+eff033c fix: commit 1
