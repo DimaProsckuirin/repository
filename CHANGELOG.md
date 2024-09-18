@@ -1,6 +1,3 @@
-## Версия v1.0.10 - 2024-09-18
-50f32e0 fix: commit 5
-1b148cc fix: commit 4
-734063b fix: commit 3
-cb85f93 fix: commit 2
-2e65faa fix: commit 1
+## Версия v1.0.11 - 2024-09-18
+22035e8 BREAKING CHANGE: commit 2
+b04aa0d BREAKING CHANGE: commit 1
