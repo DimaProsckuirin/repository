@@ -1,2 +1,5 @@
-## Версия v1.0.13 - 2024-09-18
-1298eda fix: commit 1
+## Версия v1.0.14 - 2024-09-18
+6f0ffdf BREAKING CHANGE: commit 4
+c2c2fd4 BREAKING CHANGE: commit 3
+f58a06f BREAKING CHANGE: commit 2
+72956fe BREAKING CHANGE: commit 1
