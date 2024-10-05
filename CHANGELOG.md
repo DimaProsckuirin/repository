@@ -1,3 +1,3 @@
-## Версия v1.0.17 - 2024-10-05
-3a1dbaa feat: commit 1
-c115860 Initial commit
+## Версия v1.0.18 - 2024-10-05
+781ffc6 fix: commit 2
+f7fa247 fix: commit 1
